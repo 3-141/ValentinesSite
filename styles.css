@@ -1,24 +1,24 @@
 body {
-    font-family: 'Lobster', cursive; /* Change to a romantic cursive font */
+    font-family: 'Apple Chancery', cursive; /* Change to a romantic cursive font */
     background-color: #ffdde1;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
     height: 100vh;
     margin: 0;
-    background: url('images/image.jpg') repeat;
-    font-size: 35px;
+    background: url('images/heart.jpg') repeat;
+    font-size: 30px;
     color: rgb(255, 0, 174);
 }
 .hh{
-    -webkit-text-stroke: 2px #71004f;
+    -webkit-text-stroke: 2px #000000;
     font-weight:900;
 
 }
 .pp{
-    -webkit-text-stroke: 2px #71004f;
+    -webkit-text-stroke: 2px #000000;
 
-    font-size: 50px;
+    font-size: 70px;
     font-style: oblique;
     font-weight: 800;
 }
@@ -39,7 +39,7 @@ body
 
 .image{
     height: 280px;
-    
+
 }
 
 .buttons button {
@@ -68,7 +68,7 @@ body
 }
 
 #no-button{
-    
+
 }
 
 .hidden-message {
